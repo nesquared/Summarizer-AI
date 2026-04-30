@@ -6,6 +6,7 @@ It uses the `Xenova/distilbart-cnn-6-6` model to generate concise summaries of l
 ---
 ## Images
 <img width="1870" height="1005" alt="Screenshot_30-4-2026_192435_127 0 0 1" src="https://github.com/user-attachments/assets/72dcf44f-900a-4c73-a912-271500c25a59" />
+---
 <img width="1851" height="975" alt="Screenshot_30-4-2026_191846_127 0 0 1" src="https://github.com/user-attachments/assets/3b247d8f-5db9-4883-a484-47f3f1eeb813" />
 
 ---
